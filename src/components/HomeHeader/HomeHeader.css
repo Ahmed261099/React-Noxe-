@@ -1,0 +1,11 @@
+#homeHeader{
+    background-image: url(../../img/bg.webp);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    
+  }
+  #homeHeader .slider_item {
+  width: 150px !important; 
+  }
